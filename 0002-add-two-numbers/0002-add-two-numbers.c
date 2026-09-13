@@ -8,7 +8,7 @@
 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
 
-    struct ListNode* dummy = malloc(sizeof(struct ListNode));
+    struct ListNode* dummy = malloc(sizeof(struct ListNode));//asaaannn haiiiiiiiiiiiiiiiiii
     dummy->val = 0;
     dummy->next = NULL;
 
